@@ -14,6 +14,7 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
 ## Table Structure        
  # Customer Table
 | Column Name |	Column Description |	Data Type |
+|-------------|--------------------|-----------|
 | Customer_ID	| Unique ID for Each Customer	| Text|
 | Customer_Name |	Name of the Customer	| Text|
 | Age	| Age of the Customer	| Number|
@@ -25,6 +26,7 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
 
 # Store Table
 | Column Name	| Column Description |	Data Type|
+|-------------|--------------------|----------|
 | Store_ID |	Unique Store Identifier |	Tex
 | Store_Name |	Name of the Store |	Text|
 | Region |	Represent the geographical region where Store is located |	Text|
@@ -33,15 +35,18 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
 
 # Product Table
 | Column Name |	Column Description |	Data Type|
+|-------------|--------------------|----------|
 | Product_ID |	Unique Product Identifier |	Text|
 | Product_Name |	Name of the Product |	Text|
 | Category |	Product Category |	Text|
 | Sub_Category |	Product Sub_Category |	Text|
 | Brand |	Name of the Product Brand |	Text|
 | Cost |	Represent cost of goods sold for the Product|	Currency|
+| Stock	| Represent the quantity of products available in inventory |	Number|
 
 #    Sales Table(Fact Table)
 | Column Name |	Column Description |	Data Type |
+|-------------|--------------------|-----------|
 | Sales_ID |	Unique ID for each Sales	|Text|
 | Order_Date|	Date when the order was placed	 |Date|
 | Customer_ID |	Unique ID for Each Customer |	Text|
@@ -104,9 +109,6 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
 
  ## Conclusion
   - The analysis highlights key sales drivers and problem areas. By improving pricing strategies, controlling discounts and focusing on high performing segments the business can enhance both sales and profitability.
-
-
-
 
 
 - Stock |	Represent the quantity of products available in inventory |	Number
