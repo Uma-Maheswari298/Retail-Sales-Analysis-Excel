@@ -108,7 +108,7 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
  - Business Insights Generation
 
  ## Conclusion
-  - The analysis highlights key sales drivers and problem areas. By improving pricing strategies, controlling discounts and focusing on high performing segments the business can enhance both sales and profitability.
+
 
 
 - Stock |	Represent the quantity of products available in inventory |	Number
