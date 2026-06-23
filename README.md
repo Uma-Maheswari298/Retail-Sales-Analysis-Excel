@@ -1,4 +1,4 @@
-# Retail-Sales-Analysis-Excel
+## Retail-Sales-Analysis-Excel
 An Excel based retail sales analysis project featuring data cleaning, data imputation, pivot tables, charts, and an interactive dashboard to generate business insights from sales data.
 ## Project Title
 -  Retail Sales Data Analysis Using Star Schema Data Model.
@@ -12,7 +12,7 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
  -  To analyze profit, loss and discount impact on sales.
 
 ## Table Structure        
- # Customer Table
+ ## Customer Table
 | Column Name |	Column Description |	Data Type |
 |-------------|--------------------|-----------|
 | Customer_ID	| Unique ID for Each Customer	| Text|
@@ -24,7 +24,7 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
 | Country |	Name of the Country where the Customer is located |	Text|
 | Loyalty | Level	Indicates the Customer membership type |	Text|
 
-# Store Table
+## Store Table
 | Column Name	| Column Description |	Data Type|
 |-------------|--------------------|----------|
 | Store_ID |	Unique Store Identifier |	Tex
@@ -33,7 +33,7 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
 | City |	Name of the City where the Store is located	 |Text|
 | Store_Type |Indicates the which type od Store |	Text|
 
-# Product Table
+## Product Table
 | Column Name |	Column Description |	Data Type|
 |-------------|--------------------|----------|
 | Product_ID |	Unique Product Identifier |	Text|
@@ -44,7 +44,7 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
 | Cost |	Represent cost of goods sold for the Product|	Currency|
 | Stock	| Represent the quantity of products available in inventory |	Number|
 
-#    Sales Table(Fact Table)
+## Sales Table(Fact Table)
 | Column Name |	Column Description |	Data Type |
 |-------------|--------------------|-----------|
 | Sales_ID |	Unique ID for each Sales	|Text|
@@ -73,13 +73,13 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
            - MODE()	STDDEV())
 
 ## Dashboard
- - <img width="1352" height="544" alt="Screenshot 2026-06-23 223422" src="https://github.com/user-attachments/assets/85902b6a-d229-4f97-872a-91423c3e57b9" />
- - <img width="1074" height="410" alt="Screenshot 2026-06-23 224024" src="https://github.com/user-attachments/assets/54903900-50bc-4827-9ee9-63c8cb98c51f" />
+ - <img width="1352" height="544" alt="Screenshot 2026-06-23 223422" src="https://github.com/user-attachments/assets/85902b6a-d229-4f97-872a-91423c3e57b9" />.
+ - <img width="1074" height="410" alt="Screenshot 2026-06-23 224024" src="https://github.com/user-attachments/assets/54903900-50bc-4827-9ee9-63c8cb98c51f" />.
 
 
 
 ## Key Insights
- # Descriptive Analysis:
+ ## Descriptive Analysis:
  - 	Female Customers have a higher order count and purchase quantity, which contributes to their total Sales.
 
  -  The North region shows strong Customers demand, with higher order count and quantity leading to the highest total sale
@@ -87,15 +87,15 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
  -	 PayPal is the most preferred payment method used by a majority of customers.
 
  - 	Customers in the middle age group contributes the highest purchases compared to other age group.
- # Diagnostic Analysis:
+ ## Diagnostic Analysis:
  -	The West region has lower sales due to significantly lower order quantity (593) compared to other regions (1400- 1550).
 
     Losses occur regardless of discount levels as the cost price exceeds the selling price indicating a pricing issue.
- # Predictive Analysis
+ ## Predictive Analysis
  -	Female customers are expected to contribute more to future sales due to their higher order count and purchase quantity.
 
  - The middle age group is likely to remain the key contributor to total sales.
- # Prescriptive Analysis:
+ ## Prescriptive Analysis:
  -	Maintain a selling price above cost price and avoid excessive discounts to ensure profitability.
 
  - Focus marketing efforts on the West region to increase customer engagement.
