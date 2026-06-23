@@ -67,6 +67,11 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
            - COUNT(),	COUNTIF(),IF(),	MAX (), MIN (),
            - MODE()	STDDEV())
 
+## Dashboard
+ - <img width="1352" height="544" alt="Screenshot 2026-06-23 223422" src="https://github.com/user-attachments/assets/85902b6a-d229-4f97-872a-91423c3e57b9" />
+ - <img width="1074" height="410" alt="Screenshot 2026-06-23 224024" src="https://github.com/user-attachments/assets/54903900-50bc-4827-9ee9-63c8cb98c51f" />
+
+
 
 ## Key Insights
  # Descriptive Analysis:
