@@ -81,23 +81,17 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
 ## Key Insights
  ## Descriptive Analysis:
  - 	Female Customers have a higher order count and purchase quantity, which contributes to their total Sales.
-
  -  The North region shows strong Customers demand, with higher order count and quantity leading to the highest total sale
-
  -	 PayPal is the most preferred payment method used by a majority of customers.
-
  - 	Customers in the middle age group contributes the highest purchases compared to other age group.
  ## Diagnostic Analysis:
  -	The West region has lower sales due to significantly lower order quantity (593) compared to other regions (1400- 1550).
-
-    Losses occur regardless of discount levels as the cost price exceeds the selling price indicating a pricing issue.
+ - Losses occur regardless of discount levels as the cost price exceeds the selling price indicating a pricing issue.
  ## Predictive Analysis
  -	Female customers are expected to contribute more to future sales due to their higher order count and purchase quantity.
-
  - The middle age group is likely to remain the key contributor to total sales.
  ## Prescriptive Analysis:
  -	Maintain a selling price above cost price and avoid excessive discounts to ensure profitability.
-
  - Focus marketing efforts on the West region to increase customer engagement.
 
 ## Skills Demonstrated
@@ -107,7 +101,7 @@ An Excel based retail sales analysis project featuring data cleaning, data imput
  - Dahboard Creation
  - Business Insights Generation
 
- ## Conclusion
+
 
 
 
